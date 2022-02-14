@@ -1,0 +1,8 @@
+,omopchd,count,label
+0,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/317009>,25641,Asthma
+1,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/256717>,2243,Bronchospasm
+2,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/261325>,14013,Pulmonary emphysema
+3,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/258780>,11738,Emphysematous bronchitis
+4,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/255841>,10200,Chronic bronchitis
+5,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/256449>,6835,Bronchiectasis
+6,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/257004>,24274,Acute exacerbation of chronic obstructive airways disease

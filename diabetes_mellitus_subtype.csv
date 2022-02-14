@@ -1,0 +1,16 @@
+,omopchd,count,label
+0,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/201254>,29302,Type 1 diabetes mellitus
+1,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/134324>,404,Lipodystrophy
+2,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/443730>,2387,Neurologic disorder associated with diabetes mellitus
+3,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/192279>,2370,Diabetic renal disease
+4,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/443767>,9618,Diabetic oculopathy
+5,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/201820>,162,Diabetes mellitus
+6,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/201826>,146373,Type 2 diabetes mellitus
+7,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/195771>,30555,Secondary diabetes mellitus
+8,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/443735>,3690,Coma associated with diabetes mellitus
+9,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/201530>,2842,Type 2 diabetes mellitus with hyperosmolar coma
+10,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/443727>,2385,Diabetic ketoacidosis
+11,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/436940>,2760,Metabolic syndrome X
+12,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/194700>,21,"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium"
+13,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/442793>,4636,Diabetic complication
+14,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/321822>,2381,Peripheral circulatory disorder associated with diabetes mellitus

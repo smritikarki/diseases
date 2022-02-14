@@ -1,0 +1,33 @@
+,omopchd,count,label
+0,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/317895>,1037,Renovascular hypertension
+1,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/195556>,1908,Hypertensive heart AND renal disease
+2,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/201313>,681,Hypertensive renal disease
+3,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/439697>,20665,Hypertensive renal disease with renal failure
+4,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/4110947>,813,Malignant secondary renovascular hypertension
+5,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/319826>,991,Secondary hypertension
+6,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/376965>,3109,Hypertensive retinopathy
+7,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/314958>,915,Benign secondary hypertension
+8,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/381290>,5136,Ocular hypertension
+9,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/439694>,2537,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+10,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/433536>,1,Severe pre-eclampsia
+11,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/442766>,732,Malignant hypertensive renal disease
+12,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/314369>,2811,Malignant hypertensive heart disease without congestive heart failure
+13,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/319034>,11305,Hypertensive heart disease without congestive heart failure
+14,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/313502>,17338,Benign hypertensive heart disease without congestive heart failure
+15,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/442626>,1303,Benign hypertensive heart AND renal disease
+16,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/439393>,15,Pre-eclampsia
+17,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/442603>,848,Malignant hypertensive heart AND renal disease
+18,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/317898>,16467,Malignant essential hypertension
+19,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/4249016>,1005,Benign secondary renovascular hypertension
+20,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/321080>,20,"Hypertension complicating pregnancy, childbirth and the puerperium"
+21,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/193493>,7077,Benign hypertensive renal disease
+22,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/318437>,716,Malignant secondary hypertension
+23,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/314378>,2722,Hypertensive heart disease with congestive heart failure
+24,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/439696>,3056,Hypertensive heart and renal disease with (congestive) heart failure
+25,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/439695>,2538,Hypertensive heart and renal disease with renal failure
+26,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/316866>,833,Hypertensive disorder
+27,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/192680>,1475,Portal hypertension
+28,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/312338>,2851,Benign hypertensive heart disease with congestive heart failure
+29,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/312938>,959,Hypertensive encephalopathy
+30,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/316994>,1238,Malignant hypertensive heart disease with congestive heart failure
+31,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/441922>,2,Transient hypertension of pregnancy

@@ -1,0 +1,40 @@
+,omopchd,count,label
+0,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/321042>,3707,Cardiac arrest
+1,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/316999>,48714,Conduction disorder of the heart
+2,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/319038>,6065,Postmyocardial infarction syndrome
+3,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/436392>,176,Carotid sinus syncope
+4,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/312723>,818,Congenital heart disease
+5,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/314658>,18806,Cardiomegaly
+6,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/438168>,2028,Aneurysm of heart
+7,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/319845>,2401,Pulmonary valve disorder
+8,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/317576>,73476,Coronary arteriosclerosis
+9,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/40481919>,5922,Coronary atherosclerosis
+10,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/316478>,15,"Heart disease in mother complicating pregnancy, childbirth AND/OR puerperium"
+11,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/441589>,4151,Endocarditis
+12,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/319825>,512,Rheumatic heart disease
+13,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/319835>,77667,Congestive heart failure
+14,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/312327>,7075,Acute myocardial infarction
+15,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/438171>,834,Rupture of chordae tendineae
+16,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/40479589>,933,Takotsubo cardiomyopathy
+17,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/432937>,807,Rupture of papillary muscle
+18,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/435561>,978,Certain current complications following acute myocardial infarction
+19,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/438777>,857,Papillary muscle disorder
+20,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/439399>,397,Endomyocardial fibrosis
+21,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/320299>,476,Cardiac transplant disorder
+22,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/315831>,9954,Chronic pulmonary heart disease
+23,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/4185932>,7134,Ischemic heart disease
+24,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/440207>,47,Hypoplastic left heart syndrome
+25,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/318772>,322,Disorder of pericardium
+26,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/433177>,66,Neurocirculatory asthenia
+27,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/316993>,4816,Tricuspid valve disorder
+28,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/312773>,245,Mechanical complication due to heart valve prosthesis
+29,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/320737>,838,Hyperkinetic heart disease
+30,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/320744>,4742,Complete atrioventricular block
+31,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/321588>,1050,Heart disease
+32,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/77670>,86265,Chest pain
+33,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/437894>,1811,Ventricular fibrillation
+34,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/315293>,265,Acute idiopathic pericarditis
+35,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/316427>,1811,Aneurysm of coronary vessels
+36,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/314383>,294,Myocarditis
+37,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/312927>,1069,Acute cor pulmonale
+38,<http://www.vitalstatisticsconsulting.com/ontology/omop-cdm/Concept/317000>,775,Kyphoscoliotic heart disease
